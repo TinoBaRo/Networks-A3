@@ -21,7 +21,7 @@ e.g.
     httpfs -v
 
 
-3. Run httpc to have a Client make POST/GET requests.
+3. Run httpc(CommandLineInterface.java) to have a Client make POST/GET requests.
 httpc is a curl-like application but supports HTTP protocol only.
     Usage:
     httpc command [arguments]
