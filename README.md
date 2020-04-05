@@ -18,7 +18,7 @@ httpfs is a simple file server.
              requested files. Default is the current directory when launching the
              application.
 e.g.
-    httpfs -v -d 
+    httpfs -v
 
 
 3. Run httpc to have a Client make POST/GET requests.
